@@ -15,6 +15,15 @@ The "1337" Bash script is a simple tool that allows you to convert text into lee
  |_|____/____//_/
 ```
 
+## Table of Contents
+- [Usage](#usage)
+  - [Syntax](#syntax)
+  - [Example](#example)
+- [Customization](#customization)
+- [Author](#author)
+- [Disclaimer](#disclaimer)
+- [License](#license)
+
 ## Usage
 
 1. Make sure you have Bash installed on your system.
@@ -43,6 +52,10 @@ Leet (1337) code: H3110, w0r1d!
 ## Customization
 
 You can customize the leet substitutions in the `leet_encrypt` function of the script to modify the characters and symbols used for conversion. Feel free to experiment with different substitutions to create your own leet code variations.
+
+## Author
+
+Made with :coffee: by **Haitham Aouati**
 
 ## License
 
