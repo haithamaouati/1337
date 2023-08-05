@@ -1,6 +1,19 @@
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/1337?logo=eye)
+![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/1337?logo=star)
+![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/1337?logo=repo-forked)
+![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/1337?logo=law)
+
 # 1337
 
 The "1337" Bash script is a simple tool that allows you to convert text into leet (1337) code. Leet code is a form of online communication where letters are replaced with numbers or special characters that resemble the letters. This script provides a basic implementation of this conversion process.
+
+```
+  _ _______________
+ / |___ /___ /___  |
+ | | |_ \ |_ \  / /
+ | |___) |__) |/ /
+ |_|____/____//_/
+```
 
 ## Usage
 
