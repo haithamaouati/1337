@@ -26,7 +26,10 @@ The "1337" Bash script is a simple tool that allows you to convert text into lee
 
 ## Usage
 
-1. Make sure you have Bash installed on your system.
+1. Make sure you have [Figlet](http://www.figlet.org/) installed on your system.
+```
+apt install figlet
+```
 2. Download or clone the script to your local machine.
 ```
 git clone https://github.com/haithamaouati/1337
