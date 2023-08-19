@@ -28,11 +28,20 @@ The "1337" Bash script is a simple tool that allows you to convert text into lee
 
 1. Make sure you have Bash installed on your system.
 2. Download or clone the script to your local machine.
+```
+git clone https://github.com/haithamaouati/1337
+```
 3. Open a terminal and navigate to the script's directory.
+```
+cd 1337
+```
+```
+chmod +x 1337.sh
+```
 
 ### Syntax
 
-```bash
+```
 ./1337 <text>
 ```
 
@@ -40,7 +49,7 @@ Replace `<text>` with the text you want to convert to leet code.
 
 ### Example
 
-```bash
+```
 ./1337 "Hello, world!"
 ```
 
