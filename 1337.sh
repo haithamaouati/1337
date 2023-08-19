@@ -6,6 +6,7 @@
 clear
 
 figlet -f standard 1337
+echo -e "by Haitham Aouati\n"
 
 # Function to encrypt a character to leet code
 leet_encrypt() {
