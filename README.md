@@ -64,7 +64,8 @@ Leet (1337) code: H3110, w0r1d!
 
 ## Customization
 
-You can customize the leet substitutions in the `leet_encrypt` function of the script to modify the characters and symbols used for conversion. Feel free to experiment with different substitutions to create your own leet code variations.
+> [!NOTE]\
+> You can customize the leet substitutions in the `leet_encrypt` function of the script to modify the characters and symbols used for conversion. Feel free to experiment with different substitutions to create your own leet code variations.
 
 ## Author
 
