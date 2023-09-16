@@ -73,7 +73,8 @@ Made with :coffee: by **Haitham Aouati**
 
 This script is provided under the [MIT License](LICENSE).
 
-Feel free to use, modify, and distribute this script according to the terms of the license.
+> [!NOTE]\
+> Feel free to use, modify, and distribute this script according to the terms of the license.
 
 ## Disclaimer
 
