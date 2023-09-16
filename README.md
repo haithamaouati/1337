@@ -1,6 +1,6 @@
-![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/1337?logo=eye)
 ![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/1337?logo=star)
 ![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/1337?logo=repo-forked)
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/1337?logo=eye)
 ![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/1337?logo=law)
 
 # 1337
