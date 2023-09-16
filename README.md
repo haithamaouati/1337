@@ -5,7 +5,7 @@
 
 # 1337
 
-The "1337" Bash script is a simple tool that allows you to convert text into leet (1337) code. Leet code is a form of online communication where letters are replaced with numbers or special characters that resemble the letters. This script provides a basic implementation of this conversion process.
+The **1337** Bash script is a simple tool that allows you to convert text into leet (1337) code. Leet code is a form of online communication where letters are replaced with numbers or special characters that resemble the letters. This script provides a basic implementation of this conversion process.
 
 ```
   _ _______________
