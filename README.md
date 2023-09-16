@@ -57,7 +57,7 @@ chmod +x 1337.sh
 ./1337 "Hello, world!"
 ```
 
-Output:
+*Output:*
 ```
 Leet (1337) code: H3110, w0r1d!
 ```
