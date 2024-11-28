@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Haitham Aouati
-# GitHun: github.com/haithamaouati
+# GitHub: github.com/haithamaouati
 
 clear
 
