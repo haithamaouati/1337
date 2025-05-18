@@ -68,4 +68,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-This script is provided under the [MIT License](LICENSE).
+This script is provided under the [WTFPL license](LICENSE).
